@@ -1,9 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raja Vijaya Saradhi Ch
-==============================================================================================================================================
-
-Product Manager
----------------
-
 I embrace the duality of my passions, balancing a career as a product manager during the day and immersing myself in the world of development at night.
 
 * 🌍  I'm based in Nottingham
