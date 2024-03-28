@@ -1,6 +1,5 @@
 I embrace the duality of my passions, balancing a career as a product manager during the day and immersing myself in the world of development at night.
 
-* 🌍  I'm based in Nottingham
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Productivity Apps, Chrome Extensions, Product Analytics
 * ⚡  Personal Projects -> 2 Chrome Apps, 1 Web App
